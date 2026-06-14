@@ -1,0 +1,23 @@
+fastapi
+uvicorn[standard]
+langgraph
+langchain
+langchain-google-vertexai
+langchain-google-community
+langchain-core
+redis
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+google-api-python-client
+google-cloud-aiplatform
+google-cloud-storage
+numpy
+
+# ── BGE-M3 + Qdrant RAG pipeline ─────────────────────────────────────────────
+FlagEmbedding>=1.2.9
+qdrant-client>=1.9.0
+langdetect>=1.0.9
+torch
+tqdm
