@@ -301,7 +301,7 @@ The graph updates after every conversation. Beginner users get simpler explanati
 
 ## The Dataset - Powered by Adaption
 
-The knowledge base powering Sahayak was built in partnership with **[Adaption](https://adaption.ai)**, a platform for multilingual dataset processing, enrichment, and localisation.
+The knowledge base powering Sahayak was built in partnership with **[Adaption](https://adaptionlabs.ai)**, a platform for multilingual dataset processing, enrichment, and localisation.
 
 Starting from raw financial Q&A data, Adaption's pipelines performed:
 - **Prompt enhancement** - reformulated raw queries into natural, colloquial expressions per language
@@ -561,7 +561,7 @@ data: {"event": "final_response", "response": "...", "confidence": 0.87,
 
 ## Credits
 
-**Dataset Partner:** [Adaption](https://adaption.ai) - for multilingual dataset processing, prompt enhancement, completion enrichment, and cultural localisation across 5 financial domains and 7 Indian scripts.
+**Dataset Partner:** [Adaption](https://adaptionlabs.ai) - for multilingual dataset processing, prompt enhancement, completion enrichment, and cultural localisation across 5 financial domains and 7 Indian scripts.
 
 **Research grounding:** RBI Financial Education materials, NCFE Financial Literacy Survey, Global Findex 2024, PM-KISAN and PMJDY official portals.
 
