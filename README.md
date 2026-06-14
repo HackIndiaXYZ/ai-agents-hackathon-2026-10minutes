@@ -46,6 +46,7 @@ A **production-grade, multilingual, multi-agent AI assistant** that:
 - Continuously **grows its own dataset** via an adaptive data loop that logs, anonymises, and re-ingests every user interaction
 - Builds a **personal knowledge graph** per user, tracking financial literacy across 6 domains and adapting responses to their level
 
+## Watch how it works here at - https://www.youtube.com/watch?v=kyCDXDsLe70
 ---
 
 ## Live Demo Flow
